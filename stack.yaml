@@ -3,5 +3,5 @@ system-ghc: false
 packages:
   - .
 
-resolver: lts-3.1
+resolver: lts-3.4
 
