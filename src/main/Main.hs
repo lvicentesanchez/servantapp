@@ -18,7 +18,7 @@ import           Servant
 -- * Example
 
 -- | User definition
-data User = 
+data User =
      User {
             name :: Text
           , age  :: Int
